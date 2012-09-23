@@ -1,0 +1,10 @@
+Mike/6/5000
+Ann/5/4000
+Mark/4/2800
+Sharon/3/2600
+Mike/3/2500
+Joe/3/2300
+Linda/3/2100
+Joy/2/1500
+James/2/1400
+Kobe/2/800
